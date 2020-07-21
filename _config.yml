@@ -1,9 +1,9 @@
 # main text of home
 name: Tony Zhou
-bio: Product manager @ Rubrik
+bio: Senior Product Manager @ Rubrik
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,10 +14,10 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.dropbox.com/s/xk2rze06emtarkx/TonyZhou_PM_current.pdf?dl=0
 
 # url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+your url: http://tonyzhou.me
 
 permalink: /:title/
 
@@ -41,13 +41,13 @@ facebook: tzhou13
 linkedin: tony-zhou-rubrik
 # youtube: myyoutube
 # spotify: myspotify
-github: toe-knee-z
+# github: toe-knee-z
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: tony@tonyzhou.me
@@ -59,12 +59,6 @@ authors:
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
